@@ -32,8 +32,6 @@ return [
 
     'max_age' => 0,
 
-    'credentials' => true,
-
     'supports_credentials' => true,
 
 ];
